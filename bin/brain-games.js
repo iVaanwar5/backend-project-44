@@ -1,3 +1,4 @@
-#!/usr/bin/env node 
+#!/usr/bin/env node
 import test from '../src/cli.js';
-test ();
+
+test();
